@@ -7,7 +7,7 @@ In this coursework, I have demonstrated my understanding of programming through 
 
 How to Play: 
 
-Use the up and down arrows on the keyboard to move the player paddle which is located on the left side of the screen. The aim is to use the paddle to stop the ball from hitting the left side of the screen which would result in the enemy/computer scoring a goal against you resulting in you losing the game. You should do this until the enemy/computer misses by allowing the ball to hit the right hand side of the screen resulting in you scoring a goal and therefore winning the game. 
+Use the up and down arrows or the S and W keys on the keyboard to move the player paddle which is located on the left side of the screen. The aim is to use the paddle to stop the ball from hitting the left side of the screen which would result in the enemy/computer scoring a goal against you resulting in you losing the game. You should do this until the enemy/computer misses by allowing the ball to hit the right hand side of the screen resulting in you scoring a goal and therefore winning the game. 
 
 Learning Outcomes: 
 
