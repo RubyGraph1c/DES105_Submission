@@ -1,5 +1,5 @@
 # DES105_Submission
-Submission for DES105 module
+Submission for DES105 module - Lucinda Shale (2204108)
 
 In this coursework, I have demonstrated my understanding of programming through the development of a
 simple 2D computer game.
